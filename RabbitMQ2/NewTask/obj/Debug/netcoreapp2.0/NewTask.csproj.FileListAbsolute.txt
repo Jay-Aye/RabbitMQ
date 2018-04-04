@@ -1,0 +1,10 @@
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\bin\Debug\netcoreapp2.0\NewTask.deps.json
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.json
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\bin\Debug\netcoreapp2.0\NewTask.runtimeconfig.dev.json
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\bin\Debug\netcoreapp2.0\NewTask.dll
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\bin\Debug\netcoreapp2.0\NewTask.pdb
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\obj\Debug\netcoreapp2.0\NewTask.csproj.CoreCompileInputs.cache
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfoInputs.cache
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\obj\Debug\netcoreapp2.0\NewTask.AssemblyInfo.cs
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\obj\Debug\netcoreapp2.0\NewTask.dll
+C:\Users\ja374228\Desktop\projects\Rabbit\NewTask\obj\Debug\netcoreapp2.0\NewTask.pdb
