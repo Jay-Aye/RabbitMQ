@@ -4,16 +4,22 @@
 
 https://www.rabbitmq.com/tutorials/tutorial-one-dotnet.html
 
-Create A Sender and Receiver
+Tutorial 1 - Create A Sender and Receiver
 
 ## RabbitMQ2
 
 https://www.rabbitmq.com/tutorials/tutorial-two-dotnet.html
 
-Create a Worker for Queues
+Tutorial 2 - Create a Worker for Queues
 
 ## RabbitMQ3
 
 https://www.rabbitmq.com/tutorials/tutorial-three-dotnet.html
 
-Pub/Sub model
+Tutorial 3 - Pub/Sub model
+Many Receivers can receive the same message
+
+## RabbitMQ4
+
+Tutorial 4 - Routing
+Many Receivers but only log some messages while all other messages are printed on console

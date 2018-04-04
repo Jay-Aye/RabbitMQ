@@ -1,0 +1,5 @@
+ [*] Waiting for messages.
+ Press [enter] to exit.
+ [x] Received 'error':'Hello World!'
+ [x] Received 'error':'Hello World!'
+ [x] Received 'warning':'Hello World!'
