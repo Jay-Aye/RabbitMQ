@@ -32,3 +32,10 @@ https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html
 
 Tutorial 5 - Topics
 Direct messages subscribed based on severity and facility
+
+## RabbitMQ6
+
+https://www.rabbitmq.com/tutorials/tutorial-six-dotnet.html
+
+Tutorial 6 - Remote procedure call (RPC)
+Creating a response queue to await the response from the server
