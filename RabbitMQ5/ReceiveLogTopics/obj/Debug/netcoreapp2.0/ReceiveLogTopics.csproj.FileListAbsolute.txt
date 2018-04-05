@@ -1,0 +1,10 @@
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\obj\Debug\netcoreapp2.0\ReceiveLogTopics.csproj.CoreCompileInputs.cache
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\obj\Debug\netcoreapp2.0\ReceiveLogTopics.AssemblyInfoInputs.cache
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\obj\Debug\netcoreapp2.0\ReceiveLogTopics.AssemblyInfo.cs
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\bin\Debug\netcoreapp2.0\ReceiveLogTopics.deps.json
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\bin\Debug\netcoreapp2.0\ReceiveLogTopics.runtimeconfig.json
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\bin\Debug\netcoreapp2.0\ReceiveLogTopics.runtimeconfig.dev.json
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\bin\Debug\netcoreapp2.0\ReceiveLogTopics.dll
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\bin\Debug\netcoreapp2.0\ReceiveLogTopics.pdb
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\obj\Debug\netcoreapp2.0\ReceiveLogTopics.dll
+C:\Users\ja374228\Desktop\projects\RabbitMQ-master\RabbitMQ5\ReceiveLogTopics\obj\Debug\netcoreapp2.0\ReceiveLogTopics.pdb

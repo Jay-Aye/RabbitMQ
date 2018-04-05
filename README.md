@@ -21,5 +21,14 @@ Many Receivers can receive the same message
 
 ## RabbitMQ4
 
+https://www.rabbitmq.com/tutorials/tutorial-four-dotnet.html
+
 Tutorial 4 - Routing
 Many Receivers but only log some messages while all other messages are printed on console
+
+## RabbitMQ5
+
+https://www.rabbitmq.com/tutorials/tutorial-five-dotnet.html
+
+Tutorial 5 - Topics
+Direct messages subscribed based on severity and facility
